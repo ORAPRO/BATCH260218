@@ -1,0 +1,15 @@
+/bin/
+*.class
+*/target/*
+.cache-main
+.history
+*javadoc*
+*reports*
+export
+*.zip
+*$global*
+*part-*
+*.jar
+*.eclipse.*
+resolved.xml*
+*.scala-*
